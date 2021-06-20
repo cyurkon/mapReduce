@@ -1,0 +1,8 @@
+name: mapReduce
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - nltk
+prefix: /Users/conneryurkon/miniconda3/envs/mapReduce
